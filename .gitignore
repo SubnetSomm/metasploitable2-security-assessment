@@ -1,0 +1,19 @@
+# Local environments and build outputs
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+bin/
+obj/
+# Private evidence and generated records
+.env
+*.pem
+*.key
+*.gpg
+*.pcap
+*.cap
+*.dd
+*.vmem
+birthdays_file.csv
+TransactionLog.csv
